@@ -1,0 +1,1 @@
+# Route blueprints are registered by app.py.
